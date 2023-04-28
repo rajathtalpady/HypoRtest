@@ -5,3 +5,5 @@ This function performs multiple hypothesis tests on a random sample. The functio
 If specified, the function can also perform additional hypothesis tests using a z-test and a test for the difference in means. The results of these additional tests are included in the result object.
 
 Overall, this function is useful for performing hypothesis tests on random samples and comparing the results of different tests.
+
+Blog Url: https://rajathtalpady.blogspot.com/2023/01/open-source-r-for-data-info.html
